@@ -22,12 +22,6 @@ Python 3.9 or later and NumPy (`pip install -r requirements.txt`). No other depe
 
 Run the scripts in `checks/` from the repository root, for example `python checks/closure_bounds.py --markets 30 --seed 0 --out out.json`.
 
-## What is and is not covered
-
-- A check with no violation is not a proof. Randomized checks use fixed seeds.
-- The repository does not contain the 144-case trace prototype or its independent verifier.
-- JoSAA preferences are generated, not observed. The model has one round of DA and omits multi-round,
-  freeze/float/slide, withdrawal and de-reservation rules. See `josaa_pilot/README.md`.
 
 ## Data
 
