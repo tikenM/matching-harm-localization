@@ -42,5 +42,4 @@ python josaa_pilot/josaa_pilot.py --data JoSAA_2024/exported_data/csv --out josa
 Official sources: https://josaa.nic.in/document-category/or-cr/ and the JIC 2024 report.
 
 ## Licence
-
-To be added by the repository owner.
+MIT
