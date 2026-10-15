@@ -1,3 +1,4 @@
 __pycache__/
 *.pyc
 JoSAA_2024/
+.DS_Store
