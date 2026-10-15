@@ -1,0 +1,67 @@
+[
+ {
+  "config": "m grows with n",
+  "n": 1000,
+  "m": 250,
+  "cap": 3,
+  "deg": 8,
+  "rel": 0.1,
+  "eligible_pairs": 8000,
+  "same_opportunity_pairs": 128457,
+  "crossings": 2616,
+  "da_seconds_python": 0.011,
+  "sweep_hours_python_est": 0.01
+ },
+ {
+  "config": "m grows with n",
+  "n": 5000,
+  "m": 1250,
+  "cap": 3,
+  "deg": 8,
+  "rel": 0.1,
+  "eligible_pairs": 40000,
+  "same_opportunity_pairs": 638748,
+  "crossings": 14458,
+  "da_seconds_python": 0.088,
+  "sweep_hours_python_est": 0.35
+ },
+ {
+  "config": "m fixed",
+  "n": 1000,
+  "m": 100,
+  "cap": 8,
+  "deg": 8,
+  "rel": 0.1,
+  "eligible_pairs": 8000,
+  "same_opportunity_pairs": 319557,
+  "crossings": 7295,
+  "da_seconds_python": 0.01,
+  "sweep_hours_python_est": 0.02
+ },
+ {
+  "config": "m fixed",
+  "n": 5000,
+  "m": 100,
+  "cap": 38,
+  "deg": 8,
+  "rel": 0.1,
+  "eligible_pairs": 40000,
+  "same_opportunity_pairs": 7996679,
+  "crossings": 180661,
+  "da_seconds_python": 0.171,
+  "sweep_hours_python_est": 8.59
+ },
+ {
+  "config": "m fixed",
+  "n": 20000,
+  "m": 100,
+  "cap": 150,
+  "deg": 8,
+  "rel": 0.1,
+  "eligible_pairs": 160000,
+  "same_opportunity_pairs": 128004752,
+  "crossings": 2893767,
+  "da_seconds_python": 3.404,
+  "sweep_hours_python_est": 2735.98
+ }
+]

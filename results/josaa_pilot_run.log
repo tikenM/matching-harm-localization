@@ -1,0 +1,13 @@
+programs 277 applicants 36392 seats 17365 L 90 group 12574
+calib {'sigma': 0.25, 'spearman': 0.9532052273735869, 'median_ratio_sim_to_published': 1.0763760863839873, 'programs': 277, 'matched': 17195} 8s
+calib {'sigma': 0.5, 'spearman': 0.8497130093758927, 'median_ratio_sim_to_published': 0.9551694178974804, 'programs': 277, 'matched': 17365} 15s
+calib {'sigma': 1.0, 'spearman': 0.6365974870394062, 'median_ratio_sim_to_published': 0.8855306583289908, 'programs': 277, 'matched': 17365} 23s
+calib {'sigma': 2.0, 'spearman': 0.2972043962695171, 'median_ratio_sim_to_published': 0.8450632911392405, 'programs': 277, 'matched': 17365} 31s
+R d=0.10536051565782628 b=0.5: closure 16748 (98.7% of matched), seed 1797, losers@b 762, outside closure (all strengths) 0, landing violations 0, 260s
+R d=0.10536051565782628 b=1.0: closure 16812 (99.0% of matched), seed 3568, losers@b 1536, outside closure (all strengths) 0, landing violations 0, 521s
+R d=0.2231435513142097 b=0.5: closure 16812 (99.0% of matched), seed 3736, losers@b 1617, outside closure (all strengths) 0, landing violations 0, 807s
+R d=0.2231435513142097 b=1.0: closure 16904 (99.6% of matched), seed 6306, losers@b 3027, outside closure (all strengths) 0, landing violations 0, 1188s
+V d=0.10536051565782628 b=0.5: closure 16928 (98.4% of matched), seed 1419, losers@b 861, outside closure (all strengths) 0, landing violations 0, 1806s
+V d=0.10536051565782628 b=1.0: closure 17016 (99.0% of matched), seed 3020, losers@b 1507, outside closure (all strengths) 0, landing violations 0, 2456s
+V d=0.2231435513142097 b=0.5: closure 17018 (99.0% of matched), seed 3210, losers@b 1603, outside closure (all strengths) 0, landing violations 0, 3136s
+V d=0.2231435513142097 b=1.0: closure 17089 (99.4% of matched), seed 5978, losers@b 2960, outside closure (all strengths) 0, landing violations 0, 4003s
