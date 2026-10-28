@@ -1,0 +1,32 @@
+{
+ "cases": 160,
+ "verified": 160,
+ "failed": [],
+ "turnover_cases": 142,
+ "changed_assignment_cases": 145,
+ "pieces_total": 1580,
+ "pieces_max": 48,
+ "by_type": {
+  "integer/group": {
+   "cases": 40,
+   "turnover": 37
+  },
+  "integer/random": {
+   "cases": 40,
+   "turnover": 33
+  },
+  "fitted/group": {
+   "cases": 40,
+   "turnover": 37
+  },
+  "fitted/random": {
+   "cases": 40,
+   "turnover": 35
+  }
+ },
+ "corruptions": 919,
+ "rejected": 919,
+ "accepted": [],
+ "skipped_singular_or_degenerate": 0,
+ "runtime_s": 26.8
+}

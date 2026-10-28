@@ -1,0 +1,9 @@
+{
+  "illustrative_market_id": 70,
+  "seedless_edits": 2482,
+  "seedless_changed_edits": 37,
+  "graph_saturated_fraction": 0.2998263888888889,
+  "full_norm_min": 0.0099999999999999,
+  "full_norm_max": 0.1,
+  "graph_mean_loss_mae_relative_reduction": 0.029732440506108956
+}
